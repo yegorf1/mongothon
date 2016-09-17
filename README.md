@@ -66,7 +66,7 @@ Validate a document
 car = new Car({
     "make":         "Ford",
     "model":        "F-150",
-    "num_wheels":   -1
+    "num_wheels":   -1,
     "color":        "red"
 })
 
